@@ -1,2 +1,2 @@
 # ColorIdentificationInImages
-![](https://github.com/yahyahajlaoui/maskdetectionFolder/blob/main/Untitled1.png)
+![](https://github.com/yahyahajlaoui/ColorIdentificationInImages/blob/main/Untitled.png)
